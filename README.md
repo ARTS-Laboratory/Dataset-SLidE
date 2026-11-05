@@ -48,3 +48,10 @@ Sadik Khan, AQM Zohuruzzaman, David Wambi, Austin R.J. Downey. “Dataset-Slope-
   url    = {https://github.com/ARTS-Laboratory/Dataset-Slope-LiDAR-Embankment-SLidE},  
 note  = {Accessed: Month dd, yyyy},   
 }
+
+<p align="center">
+<img src="media/QR-for-ARTS-Laboratory.png" alt="drawing" width="200"/>
+</p>
+<p align="center">
+QR code for repo.
+</p>
